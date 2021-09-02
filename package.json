@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-soraka",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "stylelint and prettier config",
   "main": "index.js",
   "homepage": "https://github.com/wanglihua007/stylelint-config-soraka#readme",
