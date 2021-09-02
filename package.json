@@ -1,0 +1,31 @@
+{
+  "name": "stylelint-config-soraka",
+  "version": "0.0.0",
+  "description": "stylelint and prettier config",
+  "main": "index.js",
+  "homepage": "https://github.com/wanglihua007/stylelint-config-soraka#readme",
+  "bugs": {
+    "url": "https://github.com/wanglihua007/stylelint-config-soraka/issues"
+  },
+  "repository": "https://github.com/wanglihua007/stylelint-config-soraka",
+  "author": "wanglihua <wanglihua@innobuddy.com>",
+  "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "prettier"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.3.2",
+    "stylelint": "^13.13.1",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "prettier-plugin-two-style-order": "^1.0.0",
+    "stylelint-config-css-modules": "^2.2.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.4.0",
+    "stylelint-no-unsupported-browser-features": "^5.0.1"
+  }
+}
