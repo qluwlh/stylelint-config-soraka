@@ -7,9 +7,6 @@ module.exports = {
   rules: {
     'prettier/prettier': true,
     'function-url-quotes': 'always',
-    'plugin/declaration-block-no-ignored-properties': true,
-    'unit-no-unknown': [true, { ignoreUnits: ['rpx'] }],
-    'prettier/prettier': true,
     'value-list-max-empty-lines': null,
     'declaration-block-no-duplicate-properties': null,
     'no-empty-source': null,
