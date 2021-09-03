@@ -2,7 +2,7 @@
 
 # stylelint-config-soraka
 
-react项目eslint规则,需要预装eslint,prettier,typescript
+stylelint规则,需要预装stylelint,prettier
 # Use
 
 安装
@@ -14,8 +14,8 @@ yarn add stylelint-config-soraka -D
 or
 
 ```bash
-npm i stylelint-config-soraka eslint prettier typescript --save-dev
-yarn add stylelint-config-soraka eslint prettier typescript -D
+npm i stylelint-config-soraka stylelint prettier --save-dev
+yarn add stylelint-config-soraka stylelint prettier -D
 ```
 
 in `stylelint.config.js`
