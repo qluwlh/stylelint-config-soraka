@@ -1,12 +1,9 @@
 module.exports = {
   extends: [
     'stylelint-config-standard',
-    'stylelint-config-css-modules',
     'stylelint-config-rational-order',
     'stylelint-prettier/recommended',
-    'stylelint-no-unsupported-browser-features',
   ],
-  plugins: ['stylelint-declaration-block-no-ignored-properties', 'stylelint-prettier'],
   rules: {
     'prettier/prettier': true,
     'function-url-quotes': 'always',
